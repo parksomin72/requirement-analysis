@@ -70,3 +70,25 @@ Requirements form the foundation for designing test cases. With clearly document
 
 Other benefits include enhanced stakeholder communication, easier maintenance, and better adaptability to changes. Overall, Requirement Analysis is not just the first step — it’s the **most strategic step** in building software that delivers real value.
 
+## 🔧 Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help ensure the software being developed aligns with stakeholder expectations and system constraints. The five key activities include:
+
+- **Requirement Gathering**  
+  This involves collecting raw requirements from stakeholders, including users, clients, domain experts, and project sponsors. It typically includes interviews, questionnaires, surveys, and observation of existing systems or processes.
+
+- **Requirement Elicitation**  
+  Elicitation is the process of actively engaging stakeholders to uncover their true needs, even if they are not explicitly stated. Techniques include brainstorming sessions, use case discussions, prototyping, and Joint Application Development (JAD) workshops.
+
+- **Requirement Documentation**  
+  Once requirements are gathered and clarified, they are documented in a structured and readable format such as a Software Requirement Specification (SRS), user stories, or use case descriptions. This documentation serves as a reference point throughout the project.
+
+- **Requirement Analysis and Modeling**  
+  This activity involves refining and structuring the documented requirements, resolving conflicts, and checking for completeness and feasibility. Modeling tools such as use case diagrams, flowcharts, or data flow diagrams are often used to visually represent the system behavior and relationships.
+
+- **Requirement Validation**  
+  The final step is to verify that the documented requirements accurately reflect the stakeholder needs and are feasible within project constraints. This may involve stakeholder reviews, walkthroughs, and prototyping to gain formal approval and avoid misunderstandings later in development.
+
+These activities help transform vague ideas into actionable, testable, and clearly defined requirements that serve as the blueprint for successful software development.
+
+

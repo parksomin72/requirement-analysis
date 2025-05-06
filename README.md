@@ -91,4 +91,34 @@ Requirement Analysis involves several structured activities that help ensure the
 
 These activities help transform vague ideas into actionable, testable, and clearly defined requirements that serve as the blueprint for successful software development.
 
+## 🧩 Types of Requirements
+
+In software engineering, requirements are generally classified into two main categories: **Functional Requirements** and **Non-functional Requirements**. Understanding the distinction between these types helps ensure that both system behavior and performance expectations are clearly defined.
+
+### ✅ Functional Requirements
+
+**Definition:**  
+Functional requirements describe what the system should do. They define specific behavior, features, and functions the software must perform to fulfill user needs and business goals.
+
+**Examples for a Booking Management System:**
+- The system shall allow users to create an account and log in securely.
+- The system shall allow users to search for available bookings by date, time, or service type.
+- The system shall allow administrators to manage booking slots (add, update, or remove).
+- The system shall send confirmation emails to users after a successful booking.
+- The system shall allow users to cancel or modify existing bookings.
+
+### ⚙️ Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements define how the system performs its functions. They are related to system quality attributes such as performance, security, usability, and reliability.
+
+**Examples for a Booking Management System:**
+- The system shall be available 99.9% of the time (high availability).
+- The system shall respond to user search queries within 2 seconds.
+- The system shall encrypt all sensitive user data using AES-256 encryption.
+- The system shall be accessible on both desktop and mobile devices (responsive design).
+- The system shall support up to 10,000 concurrent users without degradation in performance.
+
+Both functional and non-functional requirements are essential to build a robust and reliable system. While functional requirements focus on the **“what,”** non-functional requirements focus on the **“how.”**
+
 
